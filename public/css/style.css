@@ -1,0 +1,16 @@
+#container{
+	width: 1300px;
+	margin: auto auto auto auto;
+}
+#tabelas{
+	width: 1200px;
+}
+#esquerdo{
+	width: 500px;
+	float: left;
+}
+#direito{
+	width: 500px;
+	float: right;
+}
+/* page detalhes */
